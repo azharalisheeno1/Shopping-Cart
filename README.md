@@ -1,8 +1,6 @@
-# React + Vite
+I have created a simple shopping cart using React.js and Tailwind CSS, leveraging Axios for handling HTTP requests, React Router for navigation, and the Context API for state management. This project showcases the integration of modern front-end technologies to build a responsive and interactive shopping cart.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+![1](https://github.com/azharalisheeno1/Shopping-Cart/assets/113542585/2d676a1b-3e6c-4789-9374-635858d2f645)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![3](https://github.com/azharalisheeno1/Shopping-Cart/assets/113542585/6aee0c50-1b96-432c-aa5a-7a48c564f3d5)
